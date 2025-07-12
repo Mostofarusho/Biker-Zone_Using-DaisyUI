@@ -9,6 +9,7 @@ module.exports = {
             colors: {
                 primary: '#9376e0',
                 secondary: '#e893cf',
+                'bike-primary': '#e76f51',
             },
             fontFamily: {
                 poppins: ['Poppins', 'sans-serif'],
